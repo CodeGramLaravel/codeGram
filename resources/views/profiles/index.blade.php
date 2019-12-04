@@ -39,14 +39,6 @@
                 </a>
             </div>
             @endforeach
-
-            
-            <!-- <div class="col-4">
-                <img src="https://instagram.frgn5-2.fna.fbcdn.net/v/t51.2885-15/e35/73527623_158166208601186_7855403223712441155_n.jpg?_nc_ht=instagram.frgn5-2.fna.fbcdn.net&_nc_cat=102&oh=a5bb32b99aa85aa536211ab597f6d224&oe=5E863534" class="w-100">
-            </div>
-            <div class="col-4">
-                <img src="https://instagram.frgn5-2.fna.fbcdn.net/v/t51.2885-15/e35/29094550_196700594428277_4702280145854005248_n.jpg?_nc_ht=instagram.frgn5-2.fna.fbcdn.net&_nc_cat=105&oh=e3d31b0e97612721728a544c7d86f397&oe=5E7EE637" class="w-100">
-            </div> -->
         </div>
     </div>
 </div>
